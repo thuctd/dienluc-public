@@ -1,0 +1,106 @@
+{
+  "configVersion": 1,
+  "timestamp": 1584437113639,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/4-es5.e4169a05726e426b306b.js",
+        "/5-es2015.09eff5a9581a23eab80b.js",
+        "/5-es5.a907c6aeb733b829717d.js",
+        "/6-es2015.71c36d4facbd3f4e9dba.js",
+        "/6-es5.0ceee7d42ff0cb2bcc4f.js",
+        "/7-es2015.d85afe3d1359b88856b4.js",
+        "/common-es2015.6bc88f5bc15271fe3e18.js",
+        "/common-es5.84ad1bc3dfa3cdcae4db.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2015.46096ab1cd375600669c.js",
+        "/main-es5.67a5ac731da56cfa88f2.js",
+        "/polyfills-es2015.dddb64da39b068eae53e.js",
+        "/polyfills-es5.6aa5f82e71fb0d83e536.js",
+        "/runtime-es2015.af86681cbac56422453f.js",
+        "/runtime-es5.90a238211a47860d2cc5.js",
+        "/styles.4e783c60a1c710718cae.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/file/MauThongBao.xlsx",
+        "/assets/file/MauTienLuong.xlsx",
+        "/assets/file/now.json",
+        "/assets/froala_editor.pkgd.min.css",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/loading.gif",
+        "/loading.b2278b93841e8fdbb157.gif"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/4-es5.e4169a05726e426b306b.js": "72e578d6a6a96660bb2776827173b1ee9136d780",
+    "/5-es2015.09eff5a9581a23eab80b.js": "d022e6648976d32c8a3dc4a996f671a1a38c9d3b",
+    "/5-es5.a907c6aeb733b829717d.js": "369c63ac8887becb4a27ef69ca16963e795c2009",
+    "/6-es2015.71c36d4facbd3f4e9dba.js": "8f064380b0aabcaf3ea72ba5c7a3f50476d818d9",
+    "/6-es5.0ceee7d42ff0cb2bcc4f.js": "d99488e1f867f49001420faee9bfe027c84d8b1f",
+    "/7-es2015.d85afe3d1359b88856b4.js": "ae2deed3aa8887e82ae816328652574f1c043602",
+    "/assets/file/MauThongBao.xlsx": "3de1bb7abd37acd0d3203322b4f8393a531fd195",
+    "/assets/file/MauTienLuong.xlsx": "a62804596e299616e31a18bc2b01f37bc60a3088",
+    "/assets/file/now.json": "35c954368db338e189d1d85da6f33a11a53e4135",
+    "/assets/froala_editor.pkgd.min.css": "fc614d17e485978fdc5376dd58839a9ab4f15b75",
+    "/assets/icons/icon-128x128.png": "e1e3993142baf1202d83b673caf11923de551cbe",
+    "/assets/icons/icon-144x144.png": "45d6217f1b1f5f29f01a1f38b09dcba259937fe5",
+    "/assets/icons/icon-152x152.png": "bb66e1590295b526185cab31b351349440c56f74",
+    "/assets/icons/icon-192x192.png": "cedadd97506909ccf4897eda223be1b002d94853",
+    "/assets/icons/icon-384x384.png": "437bbba73c549053a1b946c1783d0dad1a2e78d4",
+    "/assets/icons/icon-512x512.png": "a524cc205b1b254c656154234b4050c9417e54ea",
+    "/assets/icons/icon-72x72.png": "8097c03a2fe9cb16235eb884c145cca1bc0d3061",
+    "/assets/icons/icon-96x96.png": "84c54e84a254cccb727dd6e9709ee79ec52a1e84",
+    "/assets/img/loading.gif": "b69f11b6b9ae7f5e860ab1a5c08035cff9498411",
+    "/common-es2015.6bc88f5bc15271fe3e18.js": "0641c81e51e2d5ab2df78b40bedf2fae2a821abf",
+    "/common-es5.84ad1bc3dfa3cdcae4db.js": "fcab358c1d8e8c1447ab7f3ea05ec545de0be102",
+    "/favicon.ico": "1166e78f4ebc8ad8e1d1460525edd5a690d05fd9",
+    "/index.html": "96845123871c528055e1e7824edff0884dc9777f",
+    "/loading.b2278b93841e8fdbb157.gif": "b69f11b6b9ae7f5e860ab1a5c08035cff9498411",
+    "/main-es2015.46096ab1cd375600669c.js": "75cb823a80db448af38799c2383e8903b460a679",
+    "/main-es5.67a5ac731da56cfa88f2.js": "6072c8b6f522888e35b3ffca81c20ce2447c82e7",
+    "/polyfills-es2015.dddb64da39b068eae53e.js": "3a12e4e6bd3e7e6106f89b10dddfcc490c5f9e5c",
+    "/polyfills-es5.6aa5f82e71fb0d83e536.js": "2cf2f3fbbc1e546672f950c75c2db7d8761c7597",
+    "/runtime-es2015.af86681cbac56422453f.js": "f1bad38a5201aea91fcc51fa38a7ad6341e8cdca",
+    "/runtime-es5.90a238211a47860d2cc5.js": "fe3d828e7716daf6ed5b4a66bbb4695ec7577bae",
+    "/styles.4e783c60a1c710718cae.css": "5ea4708c2f5ffb364b2dabc3ef1b40c1084673f5"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
